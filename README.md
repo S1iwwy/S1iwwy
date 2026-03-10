@@ -53,7 +53,7 @@
   </a>
 </div>
 
-### 📊 Moje Statystyki na GitHubie
+### 📊 My Stats on GitHub
 
 <div align="center">
   
