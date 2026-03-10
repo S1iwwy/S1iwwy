@@ -56,6 +56,8 @@
 ### 📊 Moje Statystyki na GitHubie
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S1iwwy&show_icons=true&theme=ocean&hide_border=true" alt="Moje statystyki" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S1iwwy&layout=compact&theme=ocean&hide_border=true" alt="Ulubione języki" height="195"/>
+  
+[![Moje statystyki](https://github-readme-stats.vercel.app/api?username=S1iwwy&show_icons=true&theme=ocean&hide_border=true)](https://github.com/S1iwwy)
+[![Ulubione języki](https://github-readme-stats.vercel.app/api/top-langs/?username=S1iwwy&layout=compact&theme=ocean&hide_border=true)](https://github.com/S1iwwy)
+
 </div>
