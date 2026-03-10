@@ -53,11 +53,4 @@
   </a>
 </div>
 
-### 📊 My Stats on GitHub
 
-<div align="center">
-  
-[![Moje statystyki](https://github-readme-stats.vercel.app/api?username=S1iwwy&show_icons=true&theme=ocean&hide_border=true)](https://github.com/S1iwwy)
-[![Ulubione języki](https://github-readme-stats.vercel.app/api/top-langs/?username=S1iwwy&layout=compact&theme=ocean&hide_border=true)](https://github.com/S1iwwy)
-
-</div>
